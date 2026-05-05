@@ -16,7 +16,7 @@
 
 ### A Brief Introduction
 - 👻 Here is my ORCID: <a href="https://orcid.org/0000-0002-4366-4849/">https://orcid.org/0000-0002-4366-4849/</a>
-- 🏫 **Yu HE (何煜)** currently works at [the School of Integrated Circuit Science and Engineering, Beihang University (BUAA)](http://www.sme.buaa.edu.cn/), and just finished his master studies in Prof. [Haiming YU](https://www.researchgate.net/profile/Haiming-Yu-4)'s group from Sept. 2021 to June 2023. Subsequently, he is pursuing his PhD degree in AP. [Guang YANG](https://www.researchgate.net/profile/Guang-Yang-12)'s group from Sept. 2023. Yu does research in Superconducting spintronics under the guidance of AP. [Guang YANG](https://www.researchgate.net/profile/Guang-Yang-12) and Prof. [Jason W.A. Robinson](https://scholar.google.co.uk/citations?user=mkH9powAAAAJ&hl).</a>.
+- 🏫 **Yu HE (何煜)** currently works at [the School of Integrated Circuit Science and Engineering, Beihang University (BUAA)](http://www.sme.buaa.edu.cn/), and just finished his master studies in Prof. [Haiming YU](https://www.researchgate.net/profile/Haiming-Yu-4)'s group from Sept. 2021 to June 2023. Subsequently, he is pursuing his PhD degree in AP. [Guang YANG](https://www.researchgate.net/profile/Guang-Yang-12)'s group from Sept. 2023. Yu does research in Superconducting spintronics under the guidance of AP. [Guang YANG](https://www.researchgate.net/profile/Guang-Yang-12).</a>.
 - 📫 You can get in touch with me by email at [hckrinston@gmail.com](mailto:hckrinston@gmail.com)
 
 ---
